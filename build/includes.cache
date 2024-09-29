@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\J\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\J\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\J\\repository\\arduino-circus-pi\\build\\sketch\\playground.ino.cpp",
+    "Include": "Stepper.h",
+    "Includepath": "C:\\Users\\J\\Documents\\Arduino\\libraries\\Stepper\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\J\\repository\\arduino-circus-pi\\build\\sketch\\playground.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\J\\Documents\\Arduino\\libraries\\Stepper\\src\\Stepper.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

@@ -1,3 +1,5 @@
+#include <Arduino.h>
+#line 1 "C:\\Users\\J\\repository\\arduino-circus-pi\\playground\\playground.ino"
 /*
  * MotorKnob
  *
@@ -21,6 +23,11 @@ Stepper stepper(STEPS, 8, 9, 10, 11);
 // the previous reading from the analog input
 int previous = 0;
 
+#line 24 "C:\\Users\\J\\repository\\arduino-circus-pi\\playground\\playground.ino"
+void setup();
+#line 29 "C:\\Users\\J\\repository\\arduino-circus-pi\\playground\\playground.ino"
+void loop();
+#line 24 "C:\\Users\\J\\repository\\arduino-circus-pi\\playground\\playground.ino"
 void setup() {
   // set the speed of the motor to 30 RPMs
   stepper.setSpeed(30);
@@ -37,3 +44,4 @@ void loop() {
   // remember the previous value of the sensor
   previous = val;
 }
+

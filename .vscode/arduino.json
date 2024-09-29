@@ -1,5 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM5",
-    "build": "build"
+    "output": "build",
+    "sketch": "playground\\playground.ino"
 }
